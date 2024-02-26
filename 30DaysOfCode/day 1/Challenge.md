@@ -1,6 +1,3 @@
-Objective
-Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
-
 Task
 Complete the code in the editor below. The variables , , and  are already declared and initialized for you. You must:
 
@@ -23,12 +20,11 @@ Output Format
 Print the sum of both integers on the first line, the sum of both doubles (scaled to  decimal place) on the second line, and then the two concatenated strings on the third line.
 
 Sample Input
-
 12
 4.0
 is the best place to learn and practice coding!
-Sample Output
 
+Sample Output
 16
 8.0
 HackerRank is the best place to learn and practice coding!
